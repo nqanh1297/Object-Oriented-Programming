@@ -1,0 +1,25 @@
+# 1. Bỏ qua các file nén 
+*.zip
+*.rar
+*.7z
+
+# 2. Bỏ qua các file biên dịch và đóng gói của Java
+*.class
+*.jar
+*.war
+
+# 3. Bỏ qua các thư mục build/đầu ra
+out/
+target/
+bin/
+
+# 4. Bỏ qua cấu hình môi trường của công cụ lập trình (IntelliJ IDEA, Eclipse)
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+
+# 5. Bỏ qua các file nhật ký hệ thống
+*.log

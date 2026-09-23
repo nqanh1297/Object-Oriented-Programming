@@ -1,0 +1,3 @@
+interface ElectronicDevice {
+    void turnOn();
+}
